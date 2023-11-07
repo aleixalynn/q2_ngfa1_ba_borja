@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+video{
+    position: relative;
+    height: 540px;
+}
+audio{
+    position: relative;
+    left: 42%;
+}
